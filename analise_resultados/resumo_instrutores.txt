@@ -1,0 +1,180 @@
+=== Ranking de Top Instrutores por Área ===
+
+--- [Python] (Média: 3.72) ---
+Vinicius dos Santos Souza Trovão Nota: 5
+Lucas de Araujo Contreiras Nota: 5
+Ronivaldo Domingues de Andrade Nota: 5
+Miguel de Azevedo Ferreira Nota: 5
+Gabriel Maia Marinho Nota: 5
+Laura da Silva Alves Nota: 5
+Márcio Melchiades Nascimento Nota: 5
+Natália Alexandre Leão Ramos Nota: 5
+
+--- [JavaScript] (Média: 1.56) ---
+Vinicius dos Santos Souza Trovão Nota: 5
+Ronivaldo Domingues de Andrade Nota: 4
+Mariana de Carvalho Fonseca Nota: 4
+Caio Oliveira Soares de Souza Nota: 3
+Miguel de Azevedo Ferreira Nota: 3
+Silvio Rogerio da Conceição Santos Junior Nota: 2
+Yasmin Silva da Rocha Nota: 2
+Lucas de Araujo Contreiras Nota: 2
+
+--- [Java] (Média: 1.36) ---
+Lucas de Araujo Contreiras Nota: 4
+Caio Oliveira Soares de Souza Nota: 3
+Silvio Rogerio da Conceição Santos Junior Nota: 3
+Daniel Rabello Amaro Nota: 3
+Paulo Bessa Franciozo Diniz Nota: 2
+Gabriel Maia Marinho Nota: 2
+Érica Pacheco do Rosario Nota: 2
+Yasmin Silva da Rocha Nota: 2
+
+--- [C] (Média: 1.54) ---
+Lucas de Araujo Contreiras Nota: 4
+Daniel Rabello Amaro Nota: 4
+Gabriel Maia Marinho Nota: 4
+Paulo Bessa Franciozo Diniz Nota: 3
+Miguel de Azevedo Ferreira Nota: 3
+Paulo Henrique Cotta de Assumpção Nota: 3
+Márcio Melchiades Nascimento Nota: 2
+Luís Eduardo Carvajal de Pontes Nota: 2
+
+--- [C++] (Média: 1.46) ---
+Miguel de Azevedo Ferreira Nota: 4
+Breno Silva Affonso  Nota: 3
+Tiago Yoneshigue Procopio Nota: 3
+Lucas de Araujo Contreiras Nota: 3
+Paulo Henrique Cotta de Assumpção Nota: 2
+Natália Alexandre Leão Ramos Nota: 2
+Mariana de Carvalho Fonseca Nota: 2
+Gabriel Pinheiro Rosa da Silva Nota: 2
+
+--- [C#] (Média: 1.18) ---
+Vinicius dos Santos Souza Trovão Nota: 2
+Silvio Rogerio da Conceição Santos Junior Nota: 2
+Caio Oliveira Soares de Souza Nota: 2
+Mariana de Carvalho Fonseca Nota: 2
+Miguel de Azevedo Ferreira Nota: 2
+Lucas de Araujo Contreiras Nota: 2
+Márcio Melchiades Nascimento Nota: 2
+Laura da Silva Alves Nota: 1
+
+--- [PHP] (Média: 1.18) ---
+Ronivaldo Domingues de Andrade Nota: 3
+Gabriel Behael Amorelli Madeira Nota: 3
+Silvio Rogerio da Conceição Santos Junior Nota: 3
+Paulo Bessa Franciozo Diniz Nota: 2
+Vinicius dos Santos Souza Trovão Nota: 1
+Beatriz Lima de Souza Cardoso Nota: 1
+Lucas Pinheiro Rocha Cunha Nota: 1
+Laura da Silva Alves Nota: 1
+
+--- [HTML] (Média: 1.90) ---
+Vinicius dos Santos Souza Trovão Nota: 5
+Ronivaldo Domingues de Andrade Nota: 5
+Mariana de Carvalho Fonseca Nota: 5
+Caio Oliveira Soares de Souza Nota: 4
+Ana Clara de Jesus Nascimento Nota: 4
+Miguel de Azevedo Ferreira Nota: 3
+Daniel Rabello Amaro Nota: 3
+Gabriel Maia Marinho Nota: 3
+
+--- [CSS] (Média: 1.64) ---
+Vinicius dos Santos Souza Trovão Nota: 5
+Mariana de Carvalho Fonseca Nota: 5
+Ronivaldo Domingues de Andrade Nota: 4
+Caio Oliveira Soares de Souza Nota: 4
+Ana Clara de Jesus Nascimento Nota: 3
+Miguel de Azevedo Ferreira Nota: 3
+Gabriel Maia Marinho Nota: 3
+Márcio Melchiades Nascimento Nota: 2
+
+--- [MATLAB] (Média: 1.54) ---
+Vinicius dos Santos Souza Trovão Nota: 4
+Silvio Rogerio da Conceição Santos Junior Nota: 3
+Nathalia Carvalho Araujo Nota: 3
+Laura da Silva Alves Nota: 3
+Lucas de Araujo Contreiras Nota: 3
+Breno Silva Affonso  Nota: 3
+Ronivaldo Domingues de Andrade Nota: 3
+Maria Eduarda Vieira Mendes Nota: 2
+
+--- [VBA] (Média: 1.69) ---
+Paulo Bessa Franciozo Diniz Nota: 4
+Vinicius dos Santos Souza Trovão Nota: 3
+Luís Eduardo Carvajal de Pontes Nota: 3
+Mariana de Carvalho Fonseca Nota: 3
+Gabriel Behael Amorelli Madeira Nota: 3
+Breno Silva Affonso  Nota: 3
+Rafael Romero Villar Nota: 3
+Ana Clara de Jesus Nascimento Nota: 2
+
+--- [R] (Média: 1.28) ---
+Natália Alexandre Leão Ramos Nota: 4
+Luís Eduardo Carvajal de Pontes Nota: 2
+Mariana de Carvalho Fonseca Nota: 2
+Daniel Rabello Amaro Nota: 2
+Bruno Costa Krempp   Nota: 2
+Anna Clara da Costa de Oliveira Nota: 2
+Claudete Abreu da Silva Neta Nota: 2
+Érica Pacheco do Rosario Nota: 2
+
+--- Biblioteca [math] (Média: 3.23) ---
+Paulo Bessa Franciozo Diniz Nota: 5
+Ronivaldo Domingues de Andrade Nota: 5
+Lucas Pinheiro Rocha Cunha Nota: 5
+Natália Alexandre Leão Ramos Nota: 5
+Gabriel Maia Marinho Nota: 5
+Mariana de Carvalho Fonseca Nota: 5
+Lucas de Araujo Contreiras Nota: 5
+Vinicius dos Santos Souza Trovão Nota: 4
+
+--- Biblioteca [numpy] (Média: 3.03) ---
+Mariana de Carvalho Fonseca Nota: 5
+Natália Alexandre Leão Ramos Nota: 5
+Paulo Bessa Franciozo Diniz Nota: 5
+Maria Eduarda Vieira Mendes Nota: 4
+Gabriel Behael Amorelli Madeira Nota: 4
+Gabriel Pinheiro Rosa da Silva Nota: 4
+Paulo Henrique Cotta de Assumpção Nota: 4
+Vinicius dos Santos Souza Trovão Nota: 4
+
+--- Biblioteca [pandas] (Média: 2.21) ---
+Natália Alexandre Leão Ramos Nota: 5
+Mariana de Carvalho Fonseca Nota: 5
+Vinicius dos Santos Souza Trovão Nota: 4
+Gabriel Pinheiro Rosa da Silva Nota: 4
+Maria Eduarda Vieira Mendes Nota: 3
+Lucas Pinheiro Rocha Cunha Nota: 3
+Claudete Abreu da Silva Neta Nota: 3
+Márcio Melchiades Nascimento Nota: 3
+
+--- [scipy] (Média: 1.77) ---
+Natália Alexandre Leão Ramos Nota: 5
+Mariana de Carvalho Fonseca Nota: 5
+Vinicius dos Santos Souza Trovão Nota: 4
+Beatriz Lima de Souza Cardoso Nota: 3
+Lucas Pinheiro Rocha Cunha Nota: 3
+Gabriel Maia Marinho Nota: 3
+Maria Eduarda Vieira Mendes Nota: 3
+Paulo Henrique Cotta de Assumpção Nota: 3
+
+
+=== Médias Gerais ===
+[Python]                 : 3.72
+Biblioteca [math]        : 3.23
+Biblioteca [numpy]       : 3.03
+Biblioteca [pandas]      : 2.21
+[HTML]                   : 1.90
+[scipy]                  : 1.77
+[VBA]                    : 1.69
+[CSS]                    : 1.64
+[JavaScript]             : 1.56
+[C]                      : 1.54
+[MATLAB]                 : 1.54
+[C++]                    : 1.46
+[Java]                   : 1.36
+[R]                      : 1.28
+[C#]                     : 1.18
+[PHP]                    : 1.18
